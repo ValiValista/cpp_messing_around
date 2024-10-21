@@ -1,0 +1,3 @@
+C:/Users/Viri/CLionProjects/cpp_messing_around/cmake-build-debug/CMakeFiles/cpp_messing_around.dir
+C:/Users/Viri/CLionProjects/cpp_messing_around/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Viri/CLionProjects/cpp_messing_around/cmake-build-debug/CMakeFiles/rebuild_cache.dir
